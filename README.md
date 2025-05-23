@@ -28,12 +28,14 @@
 <!-- 技术栈图标 -->
 ## ⚡ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,python,java,spring,springboots,redis,mysql&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,c,python,java,spring,springboots,redis,mysql&perline=9" />
 </div>
 
 <!-- 动态贡献图 -->
+<!--
 ## 📈 Coding Activity
 ![Snake Animation](https://raw.githubusercontent.com/RepeatedClock/RepeatedClock/output/github-contribution-grid-snake.svg)
+-->
 <!-- 3D图标区 -->
 ## 🎮 Fun Zone
 <div align="center">
