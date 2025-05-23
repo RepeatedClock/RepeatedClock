@@ -33,12 +33,12 @@
 
 <!-- 动态贡献图 -->
 ## 📈 Coding Activity
-![Snake Animation](https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/RepeatedClock/你RepeatedClock/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 3D图标区 -->
 ## 🎮 Fun Zone
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RepeatedClock&theme=gruvbox&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 <!-- 联系方式 -->
@@ -46,7 +46,7 @@
   <a href="你的领英链接">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:你的邮箱">
+  <a href="mailto:ReClock55@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
