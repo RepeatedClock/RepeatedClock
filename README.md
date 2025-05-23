@@ -20,7 +20,7 @@
 ## 🚀 Featured Projects
 | Project | Description | Stars | Tech Stack |
 |---------|-------------|-------|------------|
-| [B站](链接) |个人主页制作中，不过我可以帮你定向到B站 | ![Stars](https://img.shields.io/github/stars/用户名/仓库名?style=flat-square) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| [B站](https://www.bilibili.com) |个人主页制作中，不过我可以帮你定向到B站 | ![Stars](https://img.shields.io/github/stars/用户名/仓库名?style=flat-square) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
 <!--
 | [Project1](链接) | 用一句话描述你的项目 | ![Stars](https://img.shields.io/github/stars/用户名/仓库名?style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
 | [Project2](链接) | 另一个项目描述 | ![Stars](https://img.shields.io/github/stars/用户名/仓库名?style=flat-square) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | -->
@@ -28,12 +28,12 @@
 <!-- 技术栈图标 -->
 ## ⚡ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,python,java,spring,react,redux,tensorflow,pytorch,flask,redis,mysql,postgresql,grafana,prometheus&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,python,java,spring,redis,mysql&perline=9" />
 </div>
 
 <!-- 动态贡献图 -->
 ## 📈 Coding Activity
-![Snake Animation](https://github.com/RepeatedClock/你RepeatedClock/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/RepeatedClock/RepeatedClock/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 3D图标区 -->
 ## 🎮 Fun Zone
@@ -43,13 +43,14 @@
 
 <!-- 联系方式 -->
 <div align="center">
-  <a href="你的领英链接">
+  <a href="你的链接">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ReClock55@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
 <!--
 **RepeatedClock/RepeatedClock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
