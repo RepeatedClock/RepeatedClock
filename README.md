@@ -2,9 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=50&weight=400&duration=1300&pause=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E5%88%B6%E4%BD%9C%E4%B8%AD%EF%BD%9E%E5%92%95%E5%92%95;Hello+World!;Welcome+to+my+GitHub+Profile!;" alt="哇呜~出错了" />
 </div>
-<!--
-
--->
 
 
 <!-- 动态统计卡片 -->
@@ -14,7 +11,7 @@
 </div>
 
 <!-- 动态分割线 -->
-<img src="https://raw.githubusercontent.com/ReClock55/ReClock55/main/assets/dynamic-line.gif" width="100%">
+<img src="https://raw.githubusercontent.com/RepeatedClock/RepeatedClock/main/assets/dynamic-line.gif" width="100%">
 
 <!-- 项目展示表格 -->
 ## 🚀 Featured Projects
@@ -28,7 +25,7 @@
 <!-- 技术栈图标 -->
 ## ⚡ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,c,python,java,spring,springboots,redis,mysql&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,python,java,spring,redis,mysql&perline=9" />
 </div>
 
 <!-- 动态贡献图 -->
@@ -44,11 +41,15 @@
 
 <!-- 联系方式 -->
 <div align="center">
-  <a href="你的链接">
+  <!-- LinkedIn 保持原样 -->
+  <!--
+  <a href="你的领英链接">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+-->
+  <!-- Outlook  -->
   <a href="mailto:ReClock55@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </div>
 
